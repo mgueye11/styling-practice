@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,300&family=STIX+Two+Math&display=swap');
+/* 
+font-family: 'Barlow', sans-serif;
+font-family: 'STIX Two Math', serif; */
+
 body {
     margin: 10%;
     margin-top: 30px;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    background-color: aquamarine;
+    /* font-family: 'IBM Plex Sans', sans-serif; */
+}
+
+h1,h2,h3{
+    font-family: 'STIX Two Math', serif;
+
 }
